@@ -1,0 +1,12 @@
+{
+    "Login": "ログイン",
+    "Register": "新規登録",
+    "Name": "氏名",
+    "E-Mail Address": "メールアドレス",
+    "Password": "パスワード",
+    "Confirm Password": "パスワード再入力",
+    "Remember Me": "ログイン状態を維持します",
+    "Forgot Your Password?": "パスワードを忘れた場合はこちら",
+    "tickets_number": "接種券番号",
+    "birthday": "生年月日"
+  }
